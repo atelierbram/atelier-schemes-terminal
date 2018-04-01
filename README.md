@@ -107,7 +107,7 @@ You may also want to checkout [these DuoTone themes for Mac OS X terminal](https
 - [Mark Badolato](https://github.com/mbadolato/)
 - Base16
   - [@chriskempson](https://github.com/chriskempson)
-  - [@alexbooker](https://github.com/alexbooker)
+  - [@bookercodes](https://github.com/bookercodes)
   - [@aloisdg](https://github.com/aloisdg)
 
 ### License
